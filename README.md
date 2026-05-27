@@ -110,14 +110,3 @@ http://localhost:7860
 Feel free to fork this Space, suggest improvements, or contribute new features.
 Your feedback is highly appreciated!
 
----
-
-## ⭐ If you like this project, don't forget to star the repository!
-
-If you'd like:
-- 📷 Screenshots section  
-- 🎥 Video tutorial link area  
-- 🏷 Badges (Deploy, Python, Gradio)  
-- 👨‍💻 Author profile section  
-
-Just tell me — I can enhance the README further 👍
